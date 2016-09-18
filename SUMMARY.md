@@ -6,5 +6,4 @@
    * [Markdown](format/markdown.md)
 * [关于github与gitboolk注册过程](zhu_ce_guo_cheng.md)
 * [初识linux](chu_shi_linux.md)
-* [视频心得](shi_pin_xin_de.md)
 
