@@ -7,4 +7,5 @@
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
 * [关于github与gitboolk注册过程](zhu_ce_guo_cheng.md)
 * [初识linux](chu_shi_linux.md)
+* 视频心得
 
